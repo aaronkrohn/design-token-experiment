@@ -1,0 +1,13 @@
+{
+  "source": ["input/**/*.json"],
+  "platforms": {
+    "js": {
+      "transformGroup": "js",
+      "buildPath": "build/js/",
+      "files": [{
+        "destination": "_variables.js",
+        "format": "javascript/es6"
+      }]
+    }
+  }
+}
