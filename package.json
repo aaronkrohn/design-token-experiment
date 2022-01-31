@@ -2,6 +2,7 @@
   "name": "design_token_experiment",
   "version": "1.0.0",
   "main": "index.js",
+  "auther": "aaronkrohn",
   "scripts": {
     "build": "npm run clean && style-dictionary build",
     "clean": "style-dictionary clean"
