@@ -25,5 +25,5 @@ jobs:
           dst_repo_name: design-token-experiment-consume
           # You may need to change this to "main"
           dst_branch: main
-          dst_path: tokens/_variables.js
+          dst_path: _variables.js
           commit_message: Update design tokens
