@@ -12,17 +12,6 @@
           }
         }
       },
-      "indigo145": {
-        "description": "",
-        "type": "color",
-        "value": "#05030fff",
-        "extensions": {
-          "org.lukasoppermann.figmaDesignTokens": {
-            "styleId": "S:2e6133cb45d356d7e4809f7504027825132c2c92,",
-            "exportKey": "color"
-          }
-        }
-      },
       "indigo120": {
         "description": "",
         "type": "color",
